@@ -1,0 +1,32 @@
+# idea
+*.iml
+*.ipr
+*.iws
+*.log
+
+*.swp
+*.jar
+*.pyc
+
+
+*.DS_Store
+
+
+logs/
+target/
+build/
+out/
+
+libs/
+
+
+
+# bash stuff
+.direnv/
+.envrc
+
+.idea/
+.gradle/
+
+
+
