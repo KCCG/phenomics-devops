@@ -13,6 +13,8 @@
 
 
 logs/
+fleet-captain/logs
+
 target/
 build/
 out/
@@ -23,7 +25,6 @@ libs/
 
 # bash stuff
 .direnv/
-.envrc
 
 .idea/
 .gradle/
