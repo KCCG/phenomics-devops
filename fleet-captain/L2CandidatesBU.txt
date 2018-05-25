@@ -1,0 +1,497 @@
+"Depression"	"HP:0000716"	681683
+"Alcoholism"	"HP:0030955"	575631
+"Breast carcinoma"	"HP:0003002"	526418
+"Obesity"	"HP:0001513"	468984
+"Hypertension"	"HP:0000822"	459295
+"Varicocele"	"HP:0012871"	454048
+"Carcinoma"	"HP:0030731"	429904
+"Seizures"	"HP:0001250"	390266
+"TNF"	"11892"	377936
+"Stroke"	"HP:0001297"	369049
+"Asthma"	"HP:0002099"	337826
+"Myocardial infarction"	"HP:0001658"	317142
+"Anxiety"	"HP:0000739"	314012
+"CD4"	"1678"	302252
+"Flexion contracture"	"HP:0001371"	302039
+"Neutrophilia"	"HP:0011897"	273508
+"Congestive heart failure"	"HP:0001635"	248017
+"Schizophrenia"	"HP:0100753"	234687
+"Blindness"	"HP:0000618"	232597
+"Increased reactive oxygen species production"	"HP:0025464"	222011
+"Aggressive behavior"	"HP:0000718"	221435
+"Pneumonia"	"HP:0002090"	221301
+"Prostate cancer"	"HP:0012125"	215337
+"Hepatitis"	"HP:0012115"	212497
+"Allergy"	"HP:0012393"	195104
+"Melanoma"	"HP:0002861"	194060
+"Fever"	"HP:0001945"	189835
+"Leukemia"	"HP:0001909"	188365
+"Atherosclerosis"	"HP:0002621"	186298
+"Autoimmunity"	"HP:0002960"	185776
+"Neoplasm of the lung"	"HP:0100526"	176698
+"Nevus"	"HP:0003764"	175505
+"Abnormality of the cardiovascular system"	"HP:0001626"	166044
+"Dementia"	"HP:0000726"	165420
+"Lymphoma"	"HP:0002665"	150832
+"Behavioral abnormality"	"HP:0000708"	149838
+"Hypoventilation"	"HP:0002791"	143643
+"Fatigue"	"HP:0012378"	140080
+"Chronic obstructive pulmonary disease"	"HP:0006510"	137421
+"Immunodeficiency"	"HP:0002721"	134103
+"Cirrhosis"	"HP:0001394"	132007
+"AR"	"644"	131553
+"Anemia"	"HP:0001903"	130685
+"Sepsis"	"HP:0100806"	129314
+"Eosinophilia"	"HP:0001880"	126807
+"Dilatation"	"HP:0002617"	125547
+"EGFR"	"3236"	124543
+"Alzheimer disease"	"HP:0002511"	124428
+"CRP"	"2367"	121988
+"Diarrhea"	"HP:0002014"	120275
+"Insulin resistance"	"HP:0000855"	117939
+"Edema"	"HP:0000969"	117460
+"Stomach cancer"	"HP:0012126"	116322
+"Weight loss"	"HP:0001824"	115025
+"Peripheral neuropathy"	"HP:0009830"	112574
+"Aspiration"	"HP:0002835"	112325
+"Cognitive impairment"	"HP:0100543"	111436
+"Osteoporosis"	"HP:0000939"	111107
+"Diabetes mellitus"	"HP:0000819"	109123
+"Abnormality of the liver"	"HP:0001392"	107571
+"CAD"	"1424"	104663
+"Arthritis"	"HP:0001369"	103164
+"Falls"	"HP:0002527"	101884
+"Headache"	"HP:0002315"	101758
+"Glioma"	"HP:0009733"	99416
+"Ovarian neoplasm"	"HP:0100615"	98837
+"Arrhythmia"	"HP:0011675"	97746
+"Coronary artery disease"	"HP:0001677"	96261
+"Overweight"	"HP:0025502"	93047
+"Scarring"	"HP:0100699"	92339
+"Hearing impairment"	"HP:0000365"	90859
+"Mood changes"	"HP:0001575"	90205
+"Squamous cell carcinoma"	"HP:0002860"	89662
+"Premature atrial contractions"	"HP:0006699"	88242
+"Psychosis"	"HP:0000709"	87197
+"Rheumatoid arthritis"	"HP:0001370"	87156
+"Increased body weight"	"HP:0004324"	85796
+"ACE"	"2707"	83262
+"Hepatocellular carcinoma"	"HP:0001402"	83249
+"Psoriasis"	"HP:0003765"	82989
+"Body odor"	"HP:0500001"	82237
+"Rigidity"	"HP:0002063"	80943
+"Glaucoma"	"HP:0000501"	80764
+"Neoplasm of the pancreas"	"HP:0002894"	79638
+"Colon cancer"	"HP:0003003"	77428
+"Hyperglycemia"	"HP:0003074"	75749
+"PTH"	"9606"	74095
+"Cervical polyp"	"HP:0030159"	73611
+"Carious teeth"	"HP:0000670"	73178
+"Hypoglycemia"	"HP:0001943"	73085
+"Cataract"	"HP:0000518"	72098
+"Infertility"	"HP:0000789"	72076
+"CD34"	"1662"	70862
+"Neurodegeneration"	"HP:0002180"	68244
+"Migraine"	"HP:0002076"	67971
+"C3"	"1318"	67716
+"Preeclampsia"	"HP:0100602"	67058
+"Sarcoma"	"HP:0100242"	66728
+"PRL"	"9445"	65792
+"Atrial fibrillation"	"HP:0005110"	65140
+"Bladder neoplasm"	"HP:0009725"	65087
+"Irritability"	"HP:0000737"	64508
+"Hypothermia"	"HP:0002045"	62872
+"Ischemic stroke"	"HP:0002140"	62764
+"Osteoarthritis"	"HP:0002758"	61918
+"Thrombocytopenia"	"HP:0001873"	61693
+"Abnormality of metabolism/homeostasis"	"HP:0001939"	61679
+"Proteinuria"	"HP:0000093"	61446
+"Hernia"	"HP:0100790"	61379
+"Hyperpepsinogenemia I"	"HP:0003238"	61138
+"Renal insufficiency"	"HP:0000083"	60817
+"BDNF"	"1033"	60496
+"Hypotension"	"HP:0002615"	58970
+"Meningitis"	"HP:0001287"	58580
+"NGF"	"7808"	58330
+"Atrial septal defect"	"HP:0001631"	58175
+"Endometriosis"	"HP:0030127"	58096
+"Malnutrition"	"HP:0004395"	57646
+"Retinopathy"	"HP:0000488"	57288
+"Hepatic steatosis"	"HP:0001397"	56150
+"Nephropathy"	"HP:0000112"	54444
+"Crohn's disease"	"HP:0100280"	54183
+"Abdominal pain"	"HP:0002027"	54032
+"Neutropenia"	"HP:0001875"	52564
+"Autism"	"HP:0000717"	52519
+"Cerebral ischemia"	"HP:0002637"	52402
+"Stage 5 chronic kidney disease"	"HP:0003774"	52225
+"Erythema"	"HP:0010783"	52058
+"Abnormality of the genital system"	"HP:0000078"	51975
+"C2"	"1248"	51932
+"CCK"	"1569"	51672
+"Ascites"	"HP:0001541"	51620
+"Type II diabetes mellitus"	"HP:0005978"	51304
+"Brain neoplasm"	"HP:0030692"	51193
+"Neuroblastoma"	"HP:0003006"	50934
+"TF"	"11740"	50586
+"Rigors"	"HP:0025145"	50551
+"Astigmatism"	"HP:0000483"	50465
+"Age-related macular degeneration"	"HP:0007868"	50418
+"Tachycardia"	"HP:0001649"	50155
+"Thromboembolism"	"HP:0001907"	50051
+"APC"	"583"	49798
+"Cough"	"HP:0012735"	49782
+"Gastroesophageal reflux"	"HP:0002020"	49051
+"Hypothyroidism"	"HP:0000821"	48486
+"Confusion"	"HP:0001289"	48481
+"Non-small cell lung carcinoma"	"HP:0030358"	48358
+"HP"	"5141"	48151
+"Chronic hepatitis"	"HP:0200123"	48105
+"Chronic kidney disease"	"HP:0012622"	47949
+"Chronic pain"	"HP:0012532"	47200
+"Hypercholesterolemia"	"HP:0003124"	46502
+"Intellectual disability"	"HP:0001249"	45908
+"NPY"	"7955"	45760
+"VIP"	"12693"	45543
+"Neoplasm of the liver"	"HP:0002896"	43584
+"Myopia"	"HP:0000545"	43496
+"CA1"	"1368"	42828
+"Inflammatory abnormality of the skin"	"HP:0011123"	42747
+"Bipolar affective disorder"	"HP:0007302"	42688
+"Encephalitis"	"HP:0002383"	42533
+"Colitis"	"HP:0002583"	42437
+"AVP"	"894"	42065
+"Abnormal heart morphology"	"HP:0001627"	42032
+"Respiratory distress"	"HP:0002098"	41721
+"MSC"	"7321"	41499
+"Dehydration"	"HP:0001944"	41484
+"Pancreatitis"	"HP:0001733"	41457
+"Recurrent urinary tract infections"	"HP:0000010"	41303
+"Renal cell carcinoma"	"HP:0005584"	41214
+"Osteosarcoma"	"HP:0002669"	41119
+"Periodontitis"	"HP:0000704"	40879
+"Dyspnea"	"HP:0002094"	40765
+"Gemination"	"HP:0011091"	40755
+"Cardiomyopathy"	"HP:0001638"	40537
+"Small for gestational age"	"HP:0001518"	40462
+"Inflammation of the large intestine"	"HP:0002037"	40237
+"TLR4"	"11850"	39779
+"Paralysis"	"HP:0003470"	39563
+"Cardiac arrest"	"HP:0001695"	39504
+"Systemic lupus erythematosus"	"HP:0002725"	38847
+"Abnormality of the nervous system"	"HP:0000707"	38659
+"Nausea"	"HP:0002018"	38657
+"TRH"	"12298"	38551
+"Peritonitis"	"HP:0002586"	38448
+"Acute kidney injury"	"HP:0001919"	38414
+"Ulcerative colitis"	"HP:0100279"	38368
+"Abnormality of lipid metabolism"	"HP:0003119"	38300
+"STAT3"	"11364"	38015
+"APP"	"620"	37801
+"Abnormality of the kidney"	"HP:0000077"	37364
+"Low back pain"	"HP:0003419"	37028
+"Vasculitis"	"HP:0002633"	37004
+"Increased lacrimation"	"HP:0009926"	36960
+"Neoplasm of the skin"	"HP:0008069"	36938
+"Visual impairment"	"HP:0000505"	36730
+"Glioblastoma"	"HP:0100843"	36439
+"Chest pain"	"HP:0100749"	36433
+"Neoplasm of the rectum"	"HP:0100743"	36202
+"Meningioma"	"HP:0002858"	36148
+"Growth delay"	"HP:0001510"	35943
+"Encephalopathy"	"HP:0001298"	35582
+"PTEN"	"9588"	35500
+"Abnormality of lung morphology"	"HP:0002088"	35244
+"Synovitis"	"HP:0100769"	34772
+"HGF"	"4893"	34742
+"DBP"	"2697"	34524
+"Acute myeloid leukemia"	"HP:0004808"	34510
+"Inertia"	"HP:0030216"	34461
+"CD44"	"1681"	34340
+"Multiple myeloma"	"HP:0006775"	34289
+"Vertigo"	"HP:0002321"	34270
+"F2"	"3535"	34268
+"EPO"	"3415"	34227
+"Insomnia"	"HP:0100785"	33970
+"Non-Hodgkin lymphoma"	"HP:0012539"	33831
+"Ataxia"	"HP:0001251"	33698
+"DES"	"2770"	33474
+"MIP"	"7103"	33270
+"Dysphagia"	"HP:0002015"	33059
+"Anorexia"	"HP:0002039"	33013
+"Hyperactivity"	"HP:0000752"	32952
+"C6"	"1339"	32431
+"Hyperthyroidism"	"HP:0000836"	32382
+"Ovarian carcinoma"	"HP:0025318"	32086
+"Stereotypy"	"HP:0000733"	31813
+"SCD"	"10571"	31666
+"Hyperlipidemia"	"HP:0003077"	31619
+"Impulsivity"	"HP:0100710"	31535
+"Aortic aneurysm"	"HP:0004942"	31309
+"CFTR"	"1884"	31185
+"Vomiting"	"HP:0002013"	31079
+"Anaphylactic shock"	"HP:0100845"	31040
+"BRCA1"	"1100"	30977
+"Peripheral demyelination"	"HP:0011096"	30907
+"Acute pancreatitis"	"HP:0001735"	30882
+"Coma"	"HP:0001259"	30725
+"Pulmonary embolism"	"HP:0002204"	30628
+"Hyperhidrosis"	"HP:0000975"	30512
+"Scoliosis"	"HP:0002650"	30246
+"Hydrocephalus"	"HP:0000238"	30184
+"Emphysema"	"HP:0002097"	30183
+"Constipation"	"HP:0002019"	30163
+"Hodgkin lymphoma"	"HP:0012189"	30155
+"B-cell lymphoma"	"HP:0012191"	30066
+"Allergic rhinitis"	"HP:0003193"	29997
+"Syringomyelia"	"HP:0003396"	29996
+"Acne"	"HP:0001061"	29798
+"Spontaneous abortion"	"HP:0005268"	29750
+"Respiratory failure"	"HP:0002878"	29730
+"GFAP"	"4235"	29597
+"BCR"	"1014"	29494
+"Arterial occlusion"	"HP:0025324"	29420
+"CXCR4"	"2561"	29275
+"Cholelithiasis"	"HP:0001081"	28963
+"Esophageal neoplasm"	"HP:0100751"	28838
+"Pleural effusion"	"HP:0002202"	28655
+"Apnea"	"HP:0002104"	28483
+"Specific anosmia"	"HP:0012247"	28331
+"Acute lymphoblastic leukemia"	"HP:0006721"	27989
+"Respiratory tract infection"	"HP:0011947"	27841
+"Right hemiplegia"	"HP:0040293"	27621
+"LBP"	"6517"	27466
+"Amyloidosis"	"HP:0011034"	27392
+"Tinnitus"	"HP:0000360"	27114
+"CD40"	"11919"	27095
+"Neoplasm of the breast"	"HP:0100013"	27089
+"Scleroderma"	"HP:0100324"	27058
+"BRAF"	"1097"	27041
+"Intrauterine growth retardation"	"HP:0001511"	26872
+"Transient ischemic attack"	"HP:0002326"	26798
+"Hyperinsulinemia"	"HP:0000842"	26547
+"Jaundice"	"HP:0000952"	26333
+"Hyperalgesia"	"HP:0031005"	26295
+"Gastrointestinal stroma tumor"	"HP:0100723"	26197
+"Albinism"	"HP:0001022"	25961
+"Osteomyelitis"	"HP:0002754"	25736
+"Ventricular tachycardia"	"HP:0004756"	25734
+"Poor appetite"	"HP:0004396"	25689
+"CD14"	"1628"	25628
+"Hypoxemia"	"HP:0012418"	25587
+"Deep venous thrombosis"	"HP:0002625"	25305
+"Bradycardia"	"HP:0001662"	25264
+"Back pain"	"HP:0003418"	25071
+"Abnormality of the vasculature"	"HP:0002597"	24985
+"Hypertonia"	"HP:0001276"	24984
+"ANG"	"483"	24928
+"Drowsiness"	"HP:0002329"	24882
+"Acidosis"	"HP:0001941"	24756
+"CRH"	"2355"	24751
+"Impotence"	"HP:0000802"	24751
+"MET"	"7029"	24730
+"Astrocytoma"	"HP:0009592"	24719
+"Tremor"	"HP:0001337"	24693
+"C5"	"1331"	24692
+"Viral hepatitis"	"HP:0006562"	24648
+"Endocarditis"	"HP:0100584"	24587
+"Neoplasm of head and neck"	"HP:0012288"	24506
+"Mental deterioration"	"HP:0001268"	24505
+"Subarachnoid hemorrhage"	"HP:0002138"	24457
+"Memory impairment"	"HP:0002354"	24392
+"Glomerulonephritis"	"HP:0000099"	24384
+"Foam cells"	"HP:0003651"	24279
+"Global developmental delay"	"HP:0001263"	24053
+"Mania"	"HP:0100754"	23767
+"Gastritis"	"HP:0005263"	23718
+"Atopic dermatitis"	"HP:0001047"	23464
+"Agitation"	"HP:0000713"	23442
+"Obstructive sleep apnea"	"HP:0002870"	23254
+"Glucose intolerance"	"HP:0000833"	23186
+"Caesarian section"	"HP:0011410"	23127
+"Carcinoid tumor"	"HP:0100570"	22955
+"Nephrotic syndrome"	"HP:0000100"	22945
+"Personality disorder"	"HP:0012075"	22931
+"Hypercalcemia"	"HP:0003072"	22724
+"Recurrent infections"	"HP:0002719"	22568
+"VDR"	"12679"	22506
+"Abnormality of the skin"	"HP:0000951"	22420
+"Hypercapnia"	"HP:0012416"	22319
+"Proptosis"	"HP:0000520"	22276
+"Cerebral palsy"	"HP:0100021"	22260
+"Myopathy"	"HP:0003198"	22260
+"Premature birth"	"HP:0001622"	22028
+"Retinoblastoma"	"HP:0009919"	22016
+"Urinary incontinence"	"HP:0000020"	21974
+"Pulmonary edema"	"HP:0100598"	21961
+"Mitral regurgitation"	"HP:0001653"	21911
+"Spasticity"	"HP:0001257"	21873
+"Tics"	"HP:0100033"	21805
+"Pneumothorax"	"HP:0002107"	21755
+"Uveitis"	"HP:0000554"	21718
+"Syncope"	"HP:0001279"	21655
+"Nephritis"	"HP:0000123"	21631
+"Maternal diabetes"	"HP:0009800"	21625
+"Esophagitis"	"HP:0100633"	21592
+"Autistic behavior"	"HP:0000729"	21572
+"Cholestasis"	"HP:0001396"	21484
+"CCR5"	"1606"	21474
+"Aseptic necrosis"	"HP:0010885"	21466
+"Ventricular arrhythmia"	"HP:0004308"	21446
+"LPL"	"6677"	21417
+"Cerebral hemorrhage"	"HP:0001342"	21393
+"TLR2"	"11848"	21330
+"Pruritus"	"HP:0000989"	21202
+"STS"	"11425"	21172
+"KRAS"	"6407"	21142
+"Pheochromocytoma"	"HP:0002666"	21020
+"Pressure ulcer"	"HP:0012399"	20781
+"SCT"	"10607"	20669
+"Hypertriglyceridemia"	"HP:0002155"	20612
+"Aphasia"	"HP:0002381"	20603
+"ERG"	"3446"	20594
+"Urticaria"	"HP:0001025"	20592
+"Chronic myelogenous leukemia"	"HP:0005506"	20488
+"Pallor"	"HP:0000980"	20425
+"Peripheral arterial disease"	"HP:0004950"	20332
+"Ventricular fibrillation"	"HP:0001663"	20317
+"Peptic ulcer"	"HP:0004398"	20277
+"Photophobia"	"HP:0000613"	20240
+"Alkalosis"	"HP:0001948"	20207
+"Intestinal obstruction"	"HP:0005214"	20171
+"Abnormality of the thyroid gland"	"HP:0000820"	20043
+"Gastric ulcer"	"HP:0002592"	20032
+"ALK"	"427"	19933
+"CD28"	"1653"	19914
+"CYP3A4"	"2637"	19841
+"Eczema"	"HP:0000964"	19775
+"Hypercoagulability"	"HP:0100724"	19739
+"Hemangioma"	"HP:0001028"	19717
+"Osteolysis"	"HP:0002797"	19619
+"HMGB1"	"4983"	19615
+"Gastrointestinal hemorrhage"	"HP:0002239"	19579
+"No social interaction"	"HP:0008763"	19567
+"Venous thrombosis"	"HP:0004936"	19478
+"Abnormality of brain morphology"	"HP:0012443"	19397
+"Papilloma"	"HP:0012740"	19350
+"Dilated cardiomyopathy"	"HP:0001644"	19338
+"Cholangiocarcinoma"	"HP:0030153"	19334
+"Abnormality of the eye"	"HP:0000478"	19311
+"Hyponatremia"	"HP:0002902"	19288
+"SARS"	"10537"	19277
+"Lung adenocarcinoma"	"HP:0030078"	19221
+"Acute leukemia"	"HP:0002488"	19196
+"CA3"	"1374"	19161
+"Dystonia"	"HP:0001332"	19101
+"ADA"	"186"	19073
+"Portal hypertension"	"HP:0001409"	19050
+"Duodenal ulcer"	"HP:0002588"	19042
+"Vitamin D deficiency"	"HP:0100512"	19015
+"Keratitis"	"HP:0000491"	18979
+"Schwannoma"	"HP:0100008"	18950
+"Myocarditis"	"HP:0012819"	18780
+"Neurofibromas"	"HP:0001067"	18596
+"Type I diabetes mellitus"	"HP:0100651"	18596
+"Alopecia"	"HP:0001596"	18591
+"Decreased body weight"	"HP:0004325"	18587
+"Fatigable weakness"	"HP:0003473"	18471
+"Heterotopia"	"HP:0002282"	18471
+"Nephrolithiasis"	"HP:0000787"	18414
+"Renal neoplasm"	"HP:0009726"	18412
+"Pulmonary fibrosis"	"HP:0002206"	18337
+"Abnormality of mitochondrial metabolism"	"HP:0003287"	18265
+"Sleep disturbance"	"HP:0002360"	18258
+"Chronic pancreatitis"	"HP:0006280"	18236
+"PML"	"9113"	18203
+"Aortic valve stenosis"	"HP:0001650"	18186
+"Nausea and vomiting"	"HP:0002017"	18170
+"Lymphadenopathy"	"HP:0002716"	18153
+"APOE"	"613"	18032
+"FEV"	"18562"	17894
+"Muscular dystrophy"	"HP:0003560"	17887
+"Neuronal loss in central nervous system"	"HP:0002529"	17687
+"Amyotrophic lateral sclerosis"	"HP:0007354"	17637
+"Parkinsonism"	"HP:0001300"	17611
+"Attention deficit hyperactivity disorder"	"HP:0007018"	17560
+"PSD"	"9507"	17539
+"DMD"	"2928"	17387
+"LIF"	"6596"	17333
+"Aortic dissection"	"HP:0002647"	17318
+"Microalbuminuria"	"HP:0012594"	17280
+"Chronic lymphatic leukemia"	"HP:0005550"	17243
+"Macroscopic hematuria"	"HP:0012587"	17209
+"Myelodysplasia"	"HP:0002863"	17192
+"CYP2D6"	"2625"	17166
+"Gout"	"HP:0001997"	17159
+"Mouth neoplasm"	"HP:0012290"	17077
+"Retinal detachment"	"HP:0000541"	16994
+"Goiter"	"HP:0000853"	16926
+"Abnormality of movement"	"HP:0100022"	16873
+"AHR"	"348"	16703
+"Lymphedema"	"HP:0001004"	16666
+"Hepatic failure"	"HP:0001399"	16638
+"Testicular neoplasm"	"HP:0010788"	16615
+"ST segment elevation"	"HP:0012251"	16612
+"Celiac disease"	"HP:0002608"	16582
+"Skeletal muscle atrophy"	"HP:0003202"	16447
+"ABO"	"79"	16395
+"Basal cell carcinoma"	"HP:0002671"	16338
+"PVR"	"9705"	16334
+"TPO"	"12015"	16331
+"Laryngeal carcinoma"	"HP:0012118"	16291
+"TRPV1"	"12716"	16281
+"Neurodevelopmental abnormality"	"HP:0012759"	16270
+"Neoplasm of the skeletal system"	"HP:0010622"	16241
+"Cholecystitis"	"HP:0001082"	16186
+"Dyskinesia"	"HP:0100660"	16145
+"Strabismus"	"HP:0000486"	16144
+"Chronic infection"	"HP:0031035"	16113
+"Ptosis"	"HP:0000508"	16111
+"VWF"	"12726"	16094
+"Endometrial carcinoma"	"HP:0012114"	16017
+"Pituitary adenoma"	"HP:0002893"	16012
+"Growth hormone excess"	"HP:0000845"	15898
+"Graves disease"	"HP:0100647"	15884
+"Benign prostatic hyperplasia"	"HP:0008711"	15871
+"Paraparesis"	"HP:0002385"	15804
+"Rhinitis"	"HP:0012384"	15714
+"Keratoconjunctivitis sicca"	"HP:0001097"	15703
+"Angina pectoris"	"HP:0001681"	15585
+"Abdominal obesity"	"HP:0012743"	15465
+"GDNF"	"4232"	15450
+"MYC"	"7553"	15444
+"CD19"	"1633"	15393
+"Small cell lung carcinoma"	"HP:0030357"	15372
+"SPR"	"11257"	15348
+"FAS"	"11920"	15344
+"EFS"	"16898"	15261
+"SIRT1"	"14929"	15234
+"ADM"	"259"	15226
+"Sinusitis"	"HP:0000246"	15220
+"Otitis media"	"HP:0000388"	15169
+"Delusions"	"HP:0000746"	15149
+"Albuminuria"	"HP:0012592"	15138
+"Leukopenia"	"HP:0001882"	15133
+"GHRH"	"4265"	15111
+"Polycystic ovaries"	"HP:0000147"	15093
+"Teratoma"	"HP:0009792"	15075
+"Neuroendocrine neoplasm"	"HP:0100634"	14972
+"Abnormality of the coagulation cascade"	"HP:0003256"	14880
+"NTS"	"8038"	14850
+"MDM2"	"6973"	14843
+"Dyslexia"	"HP:0010522"	14841
+"Kaposi's sarcoma"	"HP:0100726"	14798
+"BRCA2"	"1101"	14787
+"Morphological abnormality of the central nervous system"	"HP:0002011"	14663
+"Allodynia"	"HP:0012533"	14626
+"Abnormal joint morphology"	"HP:0001367"	14623
+"Nystagmus"	"HP:0000639"	14460
+"Hypocalcemia"	"HP:0002901"	14448
+"Abnormality of the lymph nodes"	"HP:0002733"	14410
+"FAP"	"3590"	14407
+"Nephroblastoma"	"HP:0002667"	14386
+"Cerebral edema"	"HP:0002181"	14384
+"C7"	"1346"	14368
+"Polyneuropathy"	"HP:0001271"	14353
+"JAK2"	"6192"	14336
+"Arthralgia"	"HP:0002829"	14197
