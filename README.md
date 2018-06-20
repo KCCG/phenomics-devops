@@ -37,4 +37,3 @@ Deployment
 2. DevOps contains script to tag image and publish it to ECR. ( Should be handled by Jenkins)
 2. DevOps requires AWS CLI and credentials in environment variables.
 
-

@@ -47,6 +47,8 @@ def delete_tasks(service_name, env):
 
 
 if __name__ == "__main__":
-    service_name = sys.argv[1]
-    env = sys.argv[2]
-    delete_tasks(service_name, env)
+    # service_name = sys.argv[1]
+    # env = sys.argv[2]
+    # delete_tasks(service_name, env)
+
+    delete_tasks("test", "dev")

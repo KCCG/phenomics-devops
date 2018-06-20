@@ -1,0 +1,42 @@
+{
+  "containerDefinitions": [
+    {
+      "dnsSearchDomains": null,
+      "logConfiguration": null,
+      "entryPoint": null,
+      "portMappings": [
+        {
+          "hostPort": 9050,
+          "protocol": "tcp",
+          "containerPort": 80
+        }
+      ],
+      "command": null,
+      "linuxParameters": null,
+      "cpu": 128,
+      "environment": [],
+      "ulimits": null,
+      "dnsServers": null,
+      "workingDirectory": null,
+      "dockerSecurityOptions": null,
+      "memory": 128,
+      "memoryReservation": null,
+      "volumesFrom": [],
+      "image": "254144944163.dkr.ecr.ap-southeast-2.amazonaws.com/phenomics-dev:hippo-latest",
+      "disableNetworking": null,
+      "essential": true,
+      "links": null,
+      "hostname": null,
+      "extraHosts": null,
+      "user": null,
+      "readonlyRootFilesystem": null,
+      "dockerLabels": null,
+      "privileged": null,
+      "name": "phenomics-hippo-prod-container"
+    }
+  ],
+  "taskRoleArn": null,
+  "family": "phenomics-hippo-dev-task",
+  "networkMode": null,
+  "placementConstraints": []
+}
