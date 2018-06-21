@@ -6,7 +6,7 @@ import uuid
 class email_handler():
     logger = logging.getLogger(__name__)
 
-    email_service_url = 'http://13.210.236.9:9090/email/'
+    email_service_url = 'http://52.62.22.150:9090/email/'
 
     def process_item(notification_message, time_stamp, alarm, terminating):
         request_params = email_handler._get_params (notification_message, time_stamp, alarm, terminating)

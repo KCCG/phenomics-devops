@@ -19,7 +19,7 @@ def run():
     time.time()
 
     print("WorkerID\tLastRun\tPMIDs\tActive\tHealthy\tTerminating")
-    for x in range(0,8):
+    for x in range(0,10):
         running_time = datetime.datetime.now(tz=pytz.timezone('Australia/Sydney')).strftime('%Y-%m-%d %H:%M')
         now = time.time() -36000
         record = worker_config.get_record(str(x))
@@ -35,7 +35,6 @@ def run():
                         terminating =1
                         r_object.terminating = True
                         logger.info("Terminating work:{}".format(x))
-                        # port = cluster.delete_tasks(str(x))
                         port = ""
                         r_object.port = port
             print("{}\t{}\t{}\t{}\t{}\t{}".format(x, last_update_time_diff, last_index,r_object.is_active, r_object.is_healthy, r_object.terminating))

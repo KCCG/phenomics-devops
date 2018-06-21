@@ -1,0 +1,69 @@
+{
+  "executionRoleArn": null,
+  "containerDefinitions": [
+    {
+      "dnsSearchDomains": null,
+      "logConfiguration": null,
+      "entryPoint": null,
+      "portMappings": [],
+      "command": null,
+      "linuxParameters": null,
+      "cpu": 0,
+      "environment": [
+        {
+          "name": "AWS_DEFAULT_REGION",
+          "value": "ap-southeast-2"
+        },
+        {
+          "name": "AWS_ACCESS_KEY_ID",
+          "value": "AKIAIXVJSMQ6HXWRXKPA"
+        },
+        {
+          "name": "AWS_SECRET_ACCESS_KEY",
+          "value": "zUtQ1Sj8lxSZo2nvHjwnqllTnz8Akv1xgD5V48x/"
+        }
+      ],
+      "ulimits": null,
+      "dnsServers": null,
+      "mountPoints": [
+        {
+          "readOnly": null,
+          "containerPath": "/usr/src/app/logs/",
+          "sourceVolume": "fleetLogs"
+        }
+      ],
+      "workingDirectory": null,
+      "dockerSecurityOptions": null,
+      "memory": 128,
+      "memoryReservation": null,
+      "volumesFrom": [],
+      "image": "254144944163.dkr.ecr.ap-southeast-2.amazonaws.com/phenomics-prod:fleet-captain-latest",
+      "disableNetworking": null,
+      "healthCheck": null,
+      "essential": true,
+      "links": null,
+      "hostname": null,
+      "extraHosts": null,
+      "user": null,
+      "readonlyRootFilesystem": null,
+      "dockerLabels": null,
+      "privileged": null,
+      "name": "fleet-captain-contaienr"
+    }
+  ],
+  "memory": null,
+  "taskRoleArn": null,
+  "family": "fleet-cpatain",
+  "requiresCompatibilities": null,
+  "networkMode": null,
+  "cpu": null,
+  "volumes": [
+    {
+      "name": "fleetLogs",
+      "host": {
+        "sourcePath": "/var/log/fleetLogs/"
+      }
+    }
+  ],
+  "placementConstraints": []
+}

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo 'Tagging docker image'
-docker tag phenomicsfleetcaptain_fleet-captain:latest 254144944163.dkr.ecr.ap-southeast-2.amazonaws.com/phenomics-prod:fleet-captain-latest
+docker tag fleet-captain_fleet-captain:latest 254144944163.dkr.ecr.ap-southeast-2.amazonaws.com/phenomics-prod:fleet-captain-latest
 echo 'Tagging completed for docker image'
 
 echo 'Getting ECR credentials'
