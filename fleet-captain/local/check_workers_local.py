@@ -19,7 +19,7 @@ def run():
     time.time()
 
     print("WorkerID\tLastRun\tPMIDs\tActive\tHealthy\tTerminating")
-    for x in range(0,10):
+    for x in range(0,8):
         running_time = datetime.datetime.now(tz=pytz.timezone('Australia/Sydney')).strftime('%Y-%m-%d %H:%M')
         now = time.time() -36000
         record = worker_config.get_record(str(x))

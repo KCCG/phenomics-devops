@@ -38,5 +38,5 @@ class l2_cache_config(Model):
             return 0
 
 
-l2_cache_config.connect_to_dynamodb("phenomics-l2-cache", "ap-southeast-2")
+l2_cache_config.connect_to_dynamodb("phenomics-l2-cache-b2", "ap-southeast-2")
 

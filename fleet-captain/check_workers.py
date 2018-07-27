@@ -14,12 +14,12 @@ def run():
     logger = logging.getLogger(__name__)
     current_time = datetime.datetime.now(tz=pytz.timezone('Australia/Sydney')).strftime('%Y-%m-%d %H:%M')
     logging.info("\n**************")
-    logging.info("Time:{} | Version:{}".format(current_time, "V2.0 Enabled Deletion"))
+    logging.info("Time:{} | Version:{}".format(current_time, "V2.1 Split clusters"))
     messages = []
     alarm = 0
     terminating = 0
     time.time()
-    for x in range(0,10):
+    for x in range(0,8):
         running_time = datetime.datetime.now(tz=pytz.timezone('Australia/Sydney')).strftime('%Y-%m-%d %H:%M')
         now = time.time() -36000
         record = worker_config.get_record(str(x))
@@ -35,7 +35,7 @@ def run():
                         terminating =1
                         r_object.terminating = True
                         logger.info("Terminating work:{}".format(x))
-                        ports = cluster.delete_tasks(str(x))
+                        ports = cluster.delete_tasks(x)
                         r_object.port = ports
             logging.info("{}\t{}\t{}\t{}\t{}\t{}".format(x, last_update_time_diff, last_index,r_object.is_active, r_object.is_healthy, r_object.terminating))
             messages.append(r_object)

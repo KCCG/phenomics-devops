@@ -1,5 +1,4 @@
 {
-  "executionRoleArn": null,
   "containerDefinitions": [
     {
       "dnsSearchDomains": null,
@@ -8,7 +7,7 @@
       "portMappings": [],
       "command": null,
       "linuxParameters": null,
-      "cpu": 0,
+      "cpu": 100,
       "environment": [
         {
           "name": "AWS_DEFAULT_REGION",
@@ -30,6 +29,10 @@
           "readOnly": null,
           "containerPath": "/usr/src/app/logs/",
           "sourceVolume": "fleetLogs"
+        },
+        {
+          "sourceVolume": "indexResources",
+          "containerPath": "/var/tmp/index_builder/"
         }
       ],
       "workingDirectory": null,
@@ -48,7 +51,7 @@
       "readonlyRootFilesystem": null,
       "dockerLabels": null,
       "privileged": null,
-      "name": "fleet-captain-contaienr"
+      "name": "fleet-captain-container"
     }
   ],
   "memory": null,
@@ -63,6 +66,13 @@
       "host": {
         "sourcePath": "/var/log/fleetLogs/"
       }
+    },
+    {
+      "name": "indexResources",
+      "host": {
+        "sourcePath": "/var/tmp/index_builder/"
+      }
+
     }
   ],
   "placementConstraints": []
