@@ -7,16 +7,16 @@ def disable_affinity():
     for x in range(0,10):
         service_name = 'affinity-worker-' + str(x)
         print("Stopping service:{}".format(service_name))
-        client.update_service(cluster= "phenomics-ingestion-fleet", service= service_name, desiredCount=0)
+        client.update_service(cluster= "phenomics-affinity-fleet", service= service_name, desiredCount=0)
 
 
 
 def enable_affinity():
     client = boto3.client('ecs')
-    for x in range(0,10):
+    for x in range(1,10):
         service_name = 'affinity-worker-' + str(x)
         print("Starting service:{}".format(service_name))
-        client.update_service(cluster= "phenomics-ingestion-fleet", service= service_name, desiredCount=1)
+        client.update_service(cluster= "phenomics-affinity-fleet", service= service_name, desiredCount=1)
 
 
 def disable_pipeline():
@@ -38,4 +38,4 @@ def enable_pipeline():
         client.update_service(cluster= "phenomics-ingestion-fleet", service= service_name, desiredCount=1,taskDefinition=task_name)
 
 
-enable_pipeline()
+enable_affinity()
